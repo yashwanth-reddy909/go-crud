@@ -1,4 +1,5 @@
-## Crud API developed in Golang with MongoDB with a proper code structuring. A goto template for Go Applications
+## go-crud
+- Crud API developed with Golang and MongoDB with a followed code structuring. A goto template for Go Applications
 
 ### Prerequisites:
 - go (1.18+)
